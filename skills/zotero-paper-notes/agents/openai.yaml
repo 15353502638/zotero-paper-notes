@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zotero 图文精读笔记"
+  short_description: "按文章名生成 Zotero 图文精读笔记，支持自选模板或内置默认模板"
+  default_prompt: "使用 $zotero-paper-notes 为这篇文章生成含原图的精读笔记并写回 Zotero，优先用我指定的模板，没有则用内置模板：文章名。"

@@ -46,7 +46,7 @@ PDF 渲染和视觉检查由当前环境的 PDF/图像工具完成；Python help
 使用内置默认模板，并写回 Zotero。
 ```
 
-默认模板包含基本信息、标题与摘要翻译、前言、方法、结果、讨论/结论/局限、创新、疑问和阅读评价。查看 [默认模板](skills/zotero-paper-notes/assets/note-template.html)。
+默认模板包含基本信息、标题与摘要翻译、研究背景、科学问题、技术路线、结果、讨论/结论/局限、创新、疑问和阅读评价。背景会交代课题来源与前期基础，科学问题按依赖关系递进，技术路线按问题、设计、对照、读出和下一步组织。查看 [默认模板](skills/zotero-paper-notes/assets/note-template.html)。
 
 ### 使用自己的模板
 
